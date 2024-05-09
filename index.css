@@ -1,0 +1,11 @@
+.main{
+    position: relative;
+    display: grid;
+}
+.heading{
+    grid-row: 1/1;
+}
+.image{
+    grid-row: 1/1;
+    border: 5px solid white ;
+}
